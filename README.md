@@ -15,7 +15,7 @@ Minha meta é aplicar meus conhecimentos adquiridos na Universidade La Salle e n
 
 ###
 <div align="left">
-  <img src="[https://raw.githubusercontent.com/maurodesouza](https://www.linkedin.com/in/rhuan-boeira/)/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://www.linkedin.com/in/rhuan-boeira/)/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </div>
 ###
 
