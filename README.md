@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo Rhuan</p>
+<p align="left">Me chamo Rhuan.</p>
 
 ###
 
