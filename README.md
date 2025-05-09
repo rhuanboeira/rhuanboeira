@@ -1,15 +1,33 @@
-<h1 align="left">Hello World!</h1>
+# 👋 Olá, eu sou o Rhuan Boeira
 
-###
+🎓 Estudante de **Técnico em Informática para Internet** e **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia, desenvolvimento web e soluções práticas para o dia a dia das empresas.
 
-<p align="left">Me chamo Rhuan.</p>
+💼 Atualmente trabalho na Mattei Materiais Elétricos, onde tive a oportunidade de criar e publicar um site institucional real, utilizando **HTML5**, **CSS3**, **JavaScript** e **Git**.
 
-###
+🔧 Me interesso por front-end, responsividade, usabilidade e por transformar ideias em interfaces funcionais e bem organizadas.
 
-<h2 align="left">Sobre mim</h2>
+---
 
-###
+## 🚀 Tecnologias que estou aprendendo e utilizando:
+- HTML5, CSS3, JavaScript
+- Git e GitHub
+- SQL básico
+- GitHub Pages
+- UX/UI básico e design responsivo
 
-<p align="left">📚 Técnico em Informática com formação em andamento como Tecnólogo em Análise e Desenvolvimento de Sistemas, motivado e apaixonado por tecnologia. Possuo experiência em soluções de TI, manutenção de equipamentos e desenvolvimento de sistemas, com interesse e habilidades aplicáveis na área de dados, incluindo análise e gerenciamento de informações. Busco aplicar minha expertise em um ambiente inovador, contribuindo para projetos desafiadores e meu crescimento profissional na área tecnológica. 
-Minha meta é aplicar meus conhecimentos adquiridos na Universidade La Salle e no IFSUL para impulsionar inovações e contribuir significativamente para o crescimento da empresa em que atuo.</p>
+---
 
+## 📌 Projetos em destaque
+
+### 🔹 [Site Institucional – Mattei Materiais Elétricos](https://github.com/rhuanboeira/site-mattei-main)
+Projeto desenvolvido para a empresa onde atuo, com o objetivo de apresentar seus produtos e facilitar o contato com clientes. Possui layout responsivo, formulário de contato e integração com Google Maps.
+
+---
+
+## 📫 Como me encontrar
+- Email: rhuannboeira@gmail.com  
+- LinkedIn: [linkedin.com/in/rhuan-boeira](https://www.linkedin.com/in/rhuan-boeira)
+
+---
+
+> Sempre buscando evoluir como desenvolvedor e contribuir com projetos que gerem valor real. Vamos nos conectar? 🚀
