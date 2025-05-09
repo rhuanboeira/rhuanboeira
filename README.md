@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 Tecnologias que estou aprendendo e utilizando:
-- HTML5, CSS3, JavaScript
+- HTML5, CSS3, JavaScript, Python
 - Git e GitHub
 - SQL básico
 - GitHub Pages
