@@ -1,33 +1,53 @@
-# 👋 Olá, eu sou o Rhuan Boeira
+<h1 align="center">👋 Olá, eu sou o Rhuan Boeira</h1>
 
-🎓 Estudante de **Técnico em Informática para Internet** e **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia, desenvolvimento web e soluções práticas para o dia a dia das empresas.
-
-💼 Atualmente trabalho na Mattei Materiais Elétricos, onde tive a oportunidade de criar e publicar um site institucional real, utilizando **HTML5**, **CSS3**, **JavaScript** e **Git**.
-
-🔧 Me interesso por front-end, responsividade, usabilidade e por transformar ideias em interfaces funcionais e bem organizadas.
-
----
-
-## 🚀 Tecnologias que estou aprendendo e utilizando:
-- HTML5, CSS3, JavaScript, Python
-- Git e GitHub
-- SQL básico
-- GitHub Pages
-- UX/UI básico e design responsivo
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
-## 📌 Projetos em destaque
+🎓 Estudante de **Técnico em Informática para Internet** (QI Faculdade) e **Análise e Desenvolvimento de Sistemas** (La Salle), apaixonado por tecnologia, desenvolvimento web e soluções que agregam valor real para empresas.
+
+💼 Atualmente trabalho na **Mattei Materiais Elétricos**, onde tive a oportunidade de desenvolver e aplicar um **site institucional real** usando HTML, CSS, JavaScript e Git.
+
+💡 Interesso-me por **front-end**, **design responsivo**, **experiência do usuário (UX/UI)** e desenvolvimento de páginas funcionais e acessíveis.
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+- 🔹 **HTML5**, **CSS3**, **JavaScript**
+- 🛠️ **Git & GitHub**
+- 🗃️ **SQL básico**
+- 🖥️ **GitHub Pages**
+- 🎨 Noções de **UX/UI** e **Web Design Responsivo**
+
+---
+
+## 📌 Projeto em destaque
 
 ### 🔹 [Site Institucional – Mattei Materiais Elétricos](https://github.com/rhuanboeira/site-mattei-main)
-Projeto desenvolvido para a empresa onde atuo, com o objetivo de apresentar seus produtos e facilitar o contato com clientes. Possui layout responsivo, formulário de contato e integração com Google Maps.
+> Projeto real desenvolvido para a empresa onde atuo. O site é responsivo e possui seções como "Sobre nós", catálogo de produtos, formulário de contato e integração com Google Maps.
+
+🔗 [Acesse o repositório](https://github.com/rhuanboeira/site-mattei-main)
 
 ---
 
-## 📫 Como me encontrar
-- Email: rhuannboeira@gmail.com  
-- LinkedIn: [linkedin.com/in/rhuan-boeira](https://www.linkedin.com/in/rhuan-boeira)
+## 📫 Contato
+
+<p align="left">
+  <a href="mailto:rhuannboeira@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rhuannboeira@gmail.com-red?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rhuan-boeira" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-rhuan--boeira-blue?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-> Sempre buscando evoluir como desenvolvedor e contribuir com projetos que gerem valor real. Vamos nos conectar? 🚀
+> ⚡ Sempre buscando crescer como desenvolvedor e contribuir com projetos que impactem de verdade. Vamos nos conectar?
