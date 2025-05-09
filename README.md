@@ -11,7 +11,7 @@
 
 ---
 
-🎓 Estudante de **Técnico em Informática para Internet** (QI Faculdade) e **Análise e Desenvolvimento de Sistemas** (La Salle), apaixonado por tecnologia, desenvolvimento web e soluções que agregam valor real para empresas.
+🎓 Estudante de **Técnico em Informática para Internet** (QI Faculdade & Escola Técnica) e **Análise e Desenvolvimento de Sistemas** (La Salle), apaixonado por tecnologia, desenvolvimento web e soluções que agregam valor real para empresas.
 
 💼 Atualmente trabalho na **Mattei Materiais Elétricos**, onde tive a oportunidade de desenvolver e aplicar um **site institucional real** usando HTML, CSS, JavaScript e Git.
 
